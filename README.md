@@ -4,6 +4,9 @@ Create pictures, animations, and games with Elm!
 
 This is the package I wanted when I was learning programming. Start by putting shapes on screen and work up to making games. I hope this package will be fun for a broad range of ages and backgrounds!
 
+## This is a fork
+
+This fork adds a `drawing` shape type to enable the inclusion of SVG images. This way we are able to make physical drawings, photograph them and "cut out" the subjects in the resulting images using an SVG clippath, so we can use them as shapes in the Playground.
 
 ## Pictures
 
